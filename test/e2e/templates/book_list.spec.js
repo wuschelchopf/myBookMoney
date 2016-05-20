@@ -4,7 +4,7 @@ describe("E2E: book list vie", function() {
   //Sorted by title
   var expectedBooks = [
     {
-      title: "CofeeScript",
+      title: "CoffeeScript",
       isbn: "978-3-86490-050-1",
       author: "Andreas Schubert"
     },
